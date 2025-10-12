@@ -105,11 +105,14 @@ and finalize the remaining documentation.
 
 ## 💡 Best Practices
 
+- **Create Empyty Folders** when setting up the project
+- **Keep Files Organzied** as it likes to put stuff in the wrong place sometimes
 - **Always verify paths** before file operations
 - **Use terminal commands** to investigate issues thoroughly
-- **Keep projects organized** with proper directory structures
+- **Keep projects folders organized** with proper directory structures
 - **Document as you go** to maintain clear project documentation
 - **Test rigorously** before considering features complete
+- **Treat it as an ecosystem** because it is one, you are curating an environment for the ai to grow into, the better the environment the better it will perform
 
 ---
 
