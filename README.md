@@ -114,6 +114,12 @@ to add #TODO statements while developing, we will come back and fix them later i
 it yet for whatever reason.
 ```
 
+### 10. Virtual Environment Issues
+```
+Make a python venv with "python -m venv venv" then activate it, then install the requiements and always make sure
+the venv is activated when installing packages
+```
+
 ---
 
 ## 🚀 Getting Started
