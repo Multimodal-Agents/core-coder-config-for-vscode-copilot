@@ -130,6 +130,10 @@ Now please read everything slowly, part by part, does it all make sense?
 Yes but first can you put all the new enhancment docs in a folder and the otheer docs in folders and look in the terminal at the dirs and just organize the docs.
 ```
 
+#14. Check for conflicts
+
+```
+great please make sure everything else is okay with these changes
 ---
 
 ## 🚀 Getting Started
