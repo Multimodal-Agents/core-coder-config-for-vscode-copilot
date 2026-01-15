@@ -24,7 +24,7 @@ CoreCoder transforms VSCode Copilot into a highly skilled software engineering p
 
 ## 📋 Configuration Prompts
 
-### System Prompt (Initial Setup)
+### System Prompt (Optional - Initial Setup)
 
 Use this as your primary system prompt when initializing CoreCoder:
 
