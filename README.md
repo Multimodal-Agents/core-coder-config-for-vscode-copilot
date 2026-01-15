@@ -136,6 +136,12 @@ Yes but first can you put all the new enhancment docs in a folder and the otheer
 great please make sure everything else is okay with these changes
 ```
 
+### 15. More Comments is all you need
+
+```
+please document and comment the code around there more so that this confusion doesnt happen again in the future, make it apparent in the comments whats going on and how this should work.
+```
+
 ## 🚀 Getting Started
 
 1. **Initialize CoreCoder**: Copy the System Prompt into your VSCode Copilot agent mode
