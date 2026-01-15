@@ -169,6 +169,12 @@ great please make sure everything else is okay with these changes
 please document and comment the code around there more so that this confusion doesnt happen again in the future, make it apparent in the comments whats going on and how this should work.
 ```
 
+### 16. Exploratory Approach
+
+```
+please explore the codebase and recommend the best options for how to do __________ and think through the benefits of each options, and feel free to explore the code to understand better.
+```
+
 ## 🚀 Getting Started
 
 1. **Initialize CoreCoder**: Copy the System Prompt into your VSCode Copilot agent mode
